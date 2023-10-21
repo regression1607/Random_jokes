@@ -3,7 +3,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Random Joke Generator with Emojis</title>
+    
 </head>
 <body>
     <h1>Random Joke Generator with Emojis</h1>
@@ -19,7 +19,7 @@
         <li>Source Code Availability</li>
     </ul>
   <h2>How to Use</h2>
-    <p>Try out the Random Joke Generator with Emojis by visiting this link:</p>
+    <p>Try out the Random Joke Generator by visiting this link:</p>
     <a href="https://funny-joke.regression1607.repl.co" target="_blank">Random Joke Generator</a>
  <h2>Technologies Used</h2>
     <ul>
